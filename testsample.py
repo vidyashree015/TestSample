@@ -44,6 +44,11 @@ def risky_division(a, b):
 USERNAME = "admin"
 PASSWORD = "12345"
 
+
+
+
+
+
 print("Area:", calculate_area(5))
 print("Eval result:", insecure_function("2+2"))
 print("Division:", risky_division(10, 0))
